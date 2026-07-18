@@ -1,0 +1,12 @@
+remote_url = "lore://192.168.0.180"
+identity = "charlie"
+[store]
+max_capacity = 2000000
+eviction_delay = 30
+max_size = 10737418240
+compaction_delay = 50
+
+[file]
+direct_write = false
+direct_io = false
+flush_write = false
