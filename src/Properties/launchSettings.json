@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "VNode": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:54148;http://localhost:54149"
+    }
+  }
+}
